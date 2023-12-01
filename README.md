@@ -1,6 +1,6 @@
-Create a private repo on Github
-Create branch named EC2 in private repo 
-Provide access to the private repo
+# Create a private repo on Github
+# Create branch named EC2 in private repo 
+# Provide access to the private repo
 Write a terraform file to create EC2 instance with hard coded values
 Clone the private repo using Git bash
 Run terraform code on Visual Studio to provision the resource and destroy the same
